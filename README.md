@@ -2,7 +2,7 @@
 
 1)LSTM has been used to generate a model which generates texts.
 
-2)We have trained our model here on Bram Stoker's Dracula.
+2)We have trained our model here on Bram Stoker's Dracula.The book can be found here: https://www.gutenberg.org/ebooks/345
 
 3)Three layers of LSTM have been used and run over 20-30 epochs.
 
@@ -13,3 +13,4 @@
 6)Scope for improvement includes running more epochs, using one hot encoding for input, removal of more non-alphabets.
 
 NOTE: I had stopped at 26 epochs, hence the error msg.
+
